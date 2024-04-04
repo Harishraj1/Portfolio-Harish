@@ -466,7 +466,9 @@ nav h1{
 .project_box_hover_img{
     width: 100%;
     height: 260px;
+    object-fit: cover;
 }
+
 .project_box:hover{
     .project_box_hover{
         z-index: 1;
