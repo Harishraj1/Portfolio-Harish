@@ -33,6 +33,7 @@ nav h1{
 .nav_list li a:hover{
     color: #5f3bff;
     border-bottom: 2px solid #5f3bff;
+    transition-duration: .2s;
 }
 #menu_bar{
     display: none;
