@@ -596,6 +596,9 @@ nav img{
     #aboutme{
         height: 100vh;
     }
+    nav img{
+        width: 25%;
+    }
 }
 @media screen and (max-width:662px){
     .resume_btn{
