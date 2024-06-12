@@ -44,7 +44,7 @@ nav img{
     top: 0;
     position: fixed;
     z-index: 100;
-    right: -50%;
+    left: -50%;
     transition-duration: 1s;
 }
 .side_nav ul{

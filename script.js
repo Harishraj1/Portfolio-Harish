@@ -8,28 +8,28 @@ var sidenav_close3 = document.getElementById("sidenav_close3")
 var sidenav_close4 = document.getElementById("sidenav_close4")
 var sidenav_close5 = document.getElementById("sidenav_close5")
 closing_navbar.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 menu_bar.addEventListener("click",function(){
-    side_nav.style.right = "0%"
+    side_nav.style.left = "0%"
 })
 sidenav_close.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 sidenav_close1.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 sidenav_close2.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 sidenav_close3.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 sidenav_close4.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 sidenav_close5.addEventListener("click",function(){
-    side_nav.style.right ="-50%"
+    side_nav.style.left ="-50%"
 })
 
 
